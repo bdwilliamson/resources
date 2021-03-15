@@ -27,14 +27,6 @@ I suggest getting started by setting a daily alert on [arXiv](https://arxiv.org/
 
 # Background on software
 
-* [Tidy data](http://vita.had.co.nz/papers/tidy-data.pdf), a nice framework for organizing datasets described by Hadley Wickham
-* [The Leek group guide to data sharing](https://github.com/jtleek/datasharing), a nice framework for organizing data that you are working on
-* [The Leek group guide to creating R packages](https://github.com/jtleek/rpackages) (has links to other resources as well)
-
-## Learning Git and GitHub
-
-* https://happygitwithr.com/
-
 ## Learning R
 
 * https://education.rstudio.com/learn/
@@ -42,3 +34,13 @@ I suggest getting started by setting a daily alert on [arXiv](https://arxiv.org/
 * https://swirlstats.com/
 * https://adv-r.hadley.nz/ (for a bit more advanced treatment)
 * https://r4ds.had.co.nz/ (for more of a data-science-y treatment)
+
+## Learning Git and GitHub
+
+* https://happygitwithr.com/
+
+## Data and packages
+
+* [Tidy data](http://vita.had.co.nz/papers/tidy-data.pdf), a nice framework for organizing datasets described by Hadley Wickham
+* [The Leek group guide to data sharing](https://github.com/jtleek/datasharing), a nice framework for organizing data that you are working on
+* [The Leek group guide to creating R packages](https://github.com/jtleek/rpackages) (has links to other resources as well)
