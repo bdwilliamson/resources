@@ -38,6 +38,9 @@ I suggest getting started by setting a daily alert on [arXiv](https://arxiv.org/
 ## Learning Git and GitHub
 
 * https://happygitwithr.com/
+* https://git-scm.com/book/en/v2/ (especially [this section](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration), which talks about configuring programs for commit message editing and templates)
+* Tips for [git commit messages](https://chris.beams.io/posts/git-commit/)
+* Tips for [how often to commit](https://www.freshconsulting.com/atomic-commits/)
 
 ## Data and packages
 
