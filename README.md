@@ -11,13 +11,23 @@ Reading scientific papers can be hard! Here are a couple of resources for how to
 
 I suggest getting started by setting a daily alert on [arXiv](https://arxiv.org/), an open-access archive for scholarly articles; I personally have an alert set for the following categories: `stat.CO` (computation), `stat.ME` (methodology), `stat.ML` (machine learning), `stat.TH` (statistics theory). You can also set up alerts on [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/).
 
+# Background on (generalized) linear regression
+
+* [Chapter 1]() of Biostat 311, taught at the University of Washington in 2018 by myself and [Kelsey Grinde](https://kegrinde.github.io/). These slides cover univariate linear regression.
+* [Chapter 2]() of Biostat 311. These slides cover multivariate linear regression.
+* [Chapter 3]() of Biostat 311. These slides cover generalized linear regression.
+
 # Background on penalized regression
 
+* [ridge regression]()
 * [the lasso](https://www.jstor.org/stable/pdf/2346178.pdf?refreqid=excelsior%3Ae393275b802f8fc0c2c0125e453694c1): pairs a sparsity-inducing penalty with a least-squares loss function, and is widely used
 * more to come...
 
 # Background on more flexible regression
 
+* [classification and regression trees](https://www.eecis.udel.edu/~shatkay/Course/papers/CART2011.pdf): a simple-yet-flexible approach to regression
+* [generalized additive models]()
+* [random forests](https://www.stat.berkeley.edu/users/breiman/randomforest2001.pdf): build on regression/classification trees by building *forests* of multiple (bagged) trees
 * [Super Learner](https://biostats.bepress.com/cgi/viewcontent.cgi?article=1226&context=ucbbiostat): combine the predictions from multiple *candidate learners* together to make better predictions
 * more to come...
 
